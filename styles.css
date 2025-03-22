@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#img-div {
+  min-width: 800px;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#img-caption {
+  position: absolute;
+  top: 70%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgba(0, 0, 0, 0.5);
+  color: #ddcfb8;
+  font-family: "My Soul", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5em;
+}
+
+.overlay {
+  position: absolute;
+  top: 30%;
+  left: 49%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ddcfb8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2.5em;
+}
+
+#timeline {
+  background-color: #4c6367;
+  color: ;
+  font-size: larger;
+  padding: 20px;
+}
+
+#timeline h2 {
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 200%;
+  margin-bottom: 15px;
+}
+
+#timeline ul {
+  list-style-type: none;
+}
+
+#ref {
+  background-color: #4c6367;
+  padding: 20px;
+  text-align: center;
+}
