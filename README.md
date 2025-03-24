@@ -22,9 +22,6 @@ A simple tribute webpage dedicated to **Iron Man (Tony Stark)**, built using **H
 
 This project is a **certification project** for the **freeCodeCamp curriculum**, designed to demonstrate basic HTML and CSS skills.
 
-## 🛡 License
-
-This project is open-source and available under the **MIT License**.
 
 ## 📞 Contact
 
